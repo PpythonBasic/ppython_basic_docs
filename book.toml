@@ -16,7 +16,7 @@ renderer = ["html"]
 command = "mdbook-mermaid"
 
 [preprocessor.repl]
-python.enable = true
+src = "https://mr-addict.github.io/mdbook-repl/embed/"
 
 [output]
 
