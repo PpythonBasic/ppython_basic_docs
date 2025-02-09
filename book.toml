@@ -1,9 +1,10 @@
 [book]
 authors = ["watchakorn-18k"]
-language = "en"
+language = "th"
 multilingual = false
 src = "src"
 title = "PPYTHON-BASIC"
+
 
 [preprocessor]
 
@@ -14,7 +15,19 @@ renderer = ["html"]
 [preprocessor.mermaid]
 command = "mdbook-mermaid"
 
+[preprocessor.repl]
+python.enable = true
+
 [output]
 
 [output.html]
+git-repository-url = "https://github.com/PpythonBasic"
+git-repository-icon = "fa-github"
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
+input-404 = "not-found.md"
+
+[output.html.playground]
+editable = true
+
+[output.html.search]
+enable = true
