@@ -1,5 +1,6 @@
 # Summary
 
+- [เครื่องมือ](./tools.md)
 - [พื้นฐานของคอมพิวเตอร์](./chapter_1.md)
 - [พื้นฐานของ Python](./chapter_2.md)
 - [ตัวดำเนินการและการควบคุมการไหลของโปรแกรม](./chapter_3.md)
@@ -7,3 +8,5 @@
 - [โครงสร้างข้อมูลใน Python](./chapter_5.md)
 - [การจัดการไฟล์ใน Python](./chapter_6.md)
 - [การเขียนโปรแกรมเชิงวัตถุ (Object-Oriented Programming - OOP)](./chapter_7.md)
+- [การใช้ไลบรารีและโมดูลใน Python](./chapter_8.md)
+- [การพัฒนาเว็บแอปพลิเคชันด้วย Python และ Flask Framework](./chapter_9.md)
