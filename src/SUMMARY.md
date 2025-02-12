@@ -10,3 +10,4 @@
 - [การเขียนโปรแกรมเชิงวัตถุ (Object-Oriented Programming - OOP)](./chapter_7.md)
 - [การใช้ไลบรารีและโมดูลใน Python](./chapter_8.md)
 - [การพัฒนาเว็บแอปพลิเคชันด้วย Python และ Flask Framework](./chapter_9.md)
+- [การวิเคราะห์ข้อมูลและการเรียนรู้ของเครื่อง](./chapter_10.md)
