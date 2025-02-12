@@ -206,6 +206,10 @@ for height, weight in zip(new_heights, predicted_weights):
     print(f"ความสูง {height[0]} cm ทำนายน้ำหนัก {weight:.2f} kg")
 ```
 
+## ตัวอย่างโค้ด
+
+- [machine-learning.zip](assets/machine-learning.zip)
+
 ## **โจทย์ท้ายบท**
 
 1. **โจทย์ที่ 1:** ลองเปลี่ยนข้อมูลความสูงและน้ำหนักเป็นข้อมูลของคุณเอง และทำนายน้ำหนักของคุณจากความสูงที่คุณป้อนเข้าไป
